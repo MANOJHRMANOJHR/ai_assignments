@@ -1,6 +1,6 @@
 # AI Assignments (Compact Reference Implementations)
 
-1) State-space Search (8-Puzzle)
+##1) State-space Search (8-Puzzle)
 - **File**: `eight_puzzle.py`
 - Implements **BFS**, **DFS**, **UCS**, and **A\*** (with
 **Manhattan** and **Linear-Conflict** heuristics).
