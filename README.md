@@ -8,7 +8,7 @@
 expanded, and wall time.
 - Heuristic notes included (admissible + consistent).
 **Run**
-##```bash##
+#```bash
 python eight_puzzle.py
 
 2) Heuristic Search Plots
